@@ -20,20 +20,20 @@ TP
 
 <img width="385" height="199" alt="exerccie4" src="https://github.com/user-attachments/assets/5f2835cd-097c-4c68-a411-546e85e35cd7" />
 
-#Exercice 5
+# Exercice 5
 
 <img width="338" height="543" alt="exercice5" src="https://github.com/user-attachments/assets/8682bf1b-915e-4b41-8e1c-a6781ddd6315" />
 
-#Exercice 6
+# Exercice 6
 
 <img width="422" height="539" alt="exercice6" src="https://github.com/user-attachments/assets/3ade7d40-739c-4526-973f-ca48d7baf4c2" />
 
-#Exercice 7
+# Exercice 7
 
 <img width="295" height="554" alt="Exercice7" src="https://github.com/user-attachments/assets/8b8cd72b-f043-498e-bac7-9b8b7c63f006" />
 
 
-#Exercice 8
+# Exercice 8
 
 <img width="431" height="393" alt="exercice8" src="https://github.com/user-attachments/assets/5c052707-a332-4c8b-8cce-e09ec8f93f4f" />
 
